@@ -1,12 +1,14 @@
 # Pathways for getting out from the `996`
 
-> [996.ICU](https://github.com/996icu/996.ICU) is going virally, against the `996`, any way out??? [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+> [996.ICU](https://github.com/996icu/996.ICU) is going virally, against the `996`, any way out???
 
 _**“Every existence exists its reason ...【存在的即是合理的...】”**_
 
 - ~250k**`Stars`** ~20k**`Forks`** ~5k**`Watches`** @github
 - 2nd @[gitstar-ranking](https://gitstar-ranking.com/repositories)
 - Numerous medias including but not limited to the [listed](https://github.com/996icu/996.ICU/blob/master/externals/news_EN.md)
+
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 You would instantly know what does all these mean if you are a developer or familiar with open source world.
 
