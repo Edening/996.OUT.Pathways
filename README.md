@@ -1,6 +1,6 @@
 # Pathways for getting out from the `996`
 
-> [996.ICU](https://github.com/996icu/996.ICU) is going virally, against the `996`, any way out???
+> [996.ICU](https://github.com/996icu/996.ICU) is going virally, against the `996`, any way out??? [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 _**“Every existence exists its reason ...【存在的即是合理的...】”**_
 
