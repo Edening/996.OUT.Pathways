@@ -46,7 +46,7 @@ _**Here's the story**_, as shorten script, in my half-reasoning and half-guessin
 
 > _**CLS the Society:**_ “Come on! Cheers! Well done, heros!”
 
-> _**DSS the Entrepreneurs:**_ “Oh, this is amazing, let's do anther version of `Let no XXX in the world!!!`”
+> _**DSS the Entrepreneurs:**_ “Oh, this is amazing, let's do anther version of `Let be no XXX in the world!!!`”
 
 > ...
 
@@ -62,7 +62,7 @@ _**Here's the story**_, as shorten script, in my half-reasoning and half-guessin
 
 > ...
 
-> _**YG-PF-CJ the Engineer[Outlier]:**_ “...Why should `996` be such a popular `program`?...The `system` is in any sense not `user-friendly`!...Cities have become so crowed, the comute to office has been eating up more and more of my precious scarce time left from `996`!...It sounds navy and foolish, anyway, let me try to build out a vision of `Let no hard commute to office and hard office in the world!!!`...”
+> _**YG-PF-CJ the Engineer[Outlier]:**_ “...Why should `996` be such a popular `program`?...The `system` is in any sense not `user-friendly`!...Cities have become so crowed, the comute to office has been eating up more and more of my precious scarce time left from `996`!...It sounds naive and foolish, anyway, let me try to build out a vision of `Let be no hard commute to office and hard office in the world!!!`...”
 
 > _**YY:**_ “Time flies ... This is the year of 2019 ... Alipay, Alicloud, Cainiao, ..., Alibaba has become a worldly giant ... Looking at YG-PF-CJ ... Struggled for building `virtual office`, succeeded a bit on a MVP(Minimum Viable Product) but failed on raising money to continue!... Struggled trying workaround as co-founder for `virtual desktop`, succeeded a bit as a startup CTO but failed to continue leading it due to lack of interests and skills on dealing with all the complexities of people!... Struggled trying numerous other workarounds but not even a potential success yet... It seems like that the fighting against `996` is way far too heavy to be lifted... Oh wait, one last thing, it comes [996.ICU](https://github.com/996icu/996.ICU) later on ....”
 
@@ -70,7 +70,7 @@ _**Here's the story**_, as shorten script, in my half-reasoning and half-guessin
 
 I'm an engineer, so bear with me that everything I do tends to have a utility perspective, which regards solution. In another words, _**is there any way to deal with the problem of `996`**_?
 
-First and foremost, with great respect, the [996.ICU](https://github.com/996icu/996.ICU) initiative itself has been helping a lot, mainly by raising more reasonable attentions from general public. This is the kind of blessing I believe that most of the `996ers` need. By the way, this already big thing going even bigger seems to me is started and has been driven by a single person's great effort, which means everyone like you and I can make a big difference.
+First and foremost, with great respect, the [996.ICU](https://github.com/996icu/996.ICU) initiative itself has been helping a lot, mainly by raising more reasonable attentions from general public. This is the kind of blessing I believe that most of the `996ers` need. By the way, this already big thing going even bigger seems to me was started and has been driven by a single person's great effort, which means everyone like you and I can make a big difference.
 
 Here is my half-opinionated half-reasonable _**proposal**_:
 - _**Activating another key which is the tribe of engineers**_, one by one and everyone, proactively
