@@ -20,7 +20,7 @@ Except the `haha`, as a person who has been there and done that, let me try to e
 
 First and foremost, I think only God may know on earth, so I'm just doing my best to make my litte voice.
 
-_**Here's the story**_, as shorten script, in my half-reasoning and half-guessing:
+### _**Here's the story**_, as shorten script, in my half-reasoning and half-guessing:
 
 > _**YY:**_ “This is the year of 1999, the great wave of the Internet tide driving mainly by capitalists and engineers, has just been landing on mainland China...”
 
