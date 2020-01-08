@@ -1,4 +1,4 @@
-# Pathways for getting out from the `996`
+# Pathways for getting out of the `996`
 
 > [996.ICU](https://github.com/996icu/996.ICU) is going virally, against the `996`, any way out???
 
