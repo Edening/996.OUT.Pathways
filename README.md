@@ -1,7 +1,3 @@
-# Pathways for getting out of the `996`
-
-:point_right: [Working As Yourself](https://github.com/Edening/WAY)
-
 ###  Background
 > [996.ICU](https://github.com/996icu/996.ICU) is going virally, against the `996`, any way out???
 
